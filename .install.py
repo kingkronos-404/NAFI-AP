@@ -1,7 +1,7 @@
 # Tool Name :- Tool-X
-# Author :- Rajkumar dusad
+# Author :- King kronos~404
 # Date :- 1/11/2017
-# Powered By :- Aex Software's
+# Powered By :- kontol
 
 import os
 import sys
